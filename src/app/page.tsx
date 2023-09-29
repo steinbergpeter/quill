@@ -6,7 +6,7 @@ import { ArrowRight } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 
-export default function Home() {
+export default function HomePage() {
   return (
     <main>
       <MaxWidthWrapper className='mb-12 mt-8 sm:mt-16 flex flex-col items-center justify-center text-center'>
